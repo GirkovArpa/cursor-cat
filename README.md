@@ -16,6 +16,6 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://girkovarpa.itch.io/cursor-highlight">
+  <a href="https://girkovarpa.itch.io/cursor-cat">
   👉 Download for Windows 👈</a>
 </h1>
