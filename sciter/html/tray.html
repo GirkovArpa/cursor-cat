@@ -1,0 +1,18 @@
+<link href="this://app/css/tray.css" rel="stylesheet">
+<menu .popup #tray>
+  <li (color)>Color
+    <input |hslider #color value="0" min="0" max="360" step="10" buddy="buddy-color" />
+    <div #buddy-color>x</div>
+  </li>
+  <li (transparency)>Transparency
+    <input |hslider #transparency value="50" min="0" max="100" step="5" buddy="buddy-transparency" />
+    <div #buddy-transparency>x</div>%
+  </li>
+  <li (size)>Size
+    <input |hslider #size value="48" min="16" max="96" step="16" buddy="buddy-size" />
+    <div #buddy-size>x</div>px
+  </li>
+  <hr />
+  <li (about)>About</li>
+  <li (exit)>Exit</li>
+</menu>

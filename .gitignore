@@ -1,0 +1,7 @@
+/target
+*.dll
+*.exe
+*.zip
+
+/itch
+*.pdn
